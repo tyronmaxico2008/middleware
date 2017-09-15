@@ -1,0 +1,6 @@
+D:\Proj2\core\dal\bin\Debug\dal_test.exe
+D:\Proj2\core\dal\bin\Debug\dal_test.pdb
+D:\Proj2\core\dal\obj\x86\Debug\dal_test.exe
+D:\Proj2\core\dal\obj\x86\Debug\dal_test.pdb
+D:\Proj2\core\dal\bin\Debug\NPOI.dll
+D:\Proj2\core\dal\obj\x86\Debug\dal_test.csprojResolveAssemblyReference.cache
