@@ -1,0 +1,12 @@
+D:\Proj2\output\ntier\NTier.dll
+D:\Proj2\output\ntier\NTier.pdb
+D:\Proj2\core\ntier\obj\Debug\NTier_Winui.csprojResolveAssemblyReference.cache
+D:\Proj2\core\ntier\obj\Debug\NTier.TreeDesigner.frmImageList.resources
+D:\Proj2\core\ntier\obj\Debug\NTier.TreeDesigner.frmTreeDesigner.resources
+D:\Proj2\core\ntier\obj\Debug\NTier.winui.Form1.resources
+D:\Proj2\core\ntier\obj\Debug\NTier.winui.frmBase.resources
+D:\Proj2\core\ntier\obj\Debug\NTier.winUI.frmGridSimple.resources
+D:\Proj2\core\ntier\obj\Debug\NTier.winui.frmRPT_Viewer.resources
+D:\Proj2\core\ntier\obj\Debug\NTier_Winui.csproj.GenerateResource.Cache
+D:\Proj2\core\ntier\obj\Debug\NTier.dll
+D:\Proj2\core\ntier\obj\Debug\NTier.pdb

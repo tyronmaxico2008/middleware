@@ -1,0 +1,7 @@
+D:\output\NTier\NTier.dll
+D:\output\NTier\NTier.pdb
+D:\proj2\output\ntier\NTier.dll
+D:\proj2\output\ntier\NTier.pdb
+D:\proj2\core\ntier\obj\Debug\NTier.csprojResolveAssemblyReference.cache
+D:\proj2\core\ntier\obj\Debug\NTier.dll
+D:\proj2\core\ntier\obj\Debug\NTier.pdb

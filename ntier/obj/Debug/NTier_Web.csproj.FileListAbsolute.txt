@@ -1,0 +1,5 @@
+D:\proj2\output\ntier\NTier_Web.dll
+D:\proj2\output\ntier\NTier_Web.pdb
+D:\proj2\core\ntier\obj\Debug\NTier_Web.csprojResolveAssemblyReference.cache
+D:\proj2\core\ntier\obj\Debug\NTier_Web.dll
+D:\proj2\core\ntier\obj\Debug\NTier_Web.pdb

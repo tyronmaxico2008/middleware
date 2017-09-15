@@ -1,0 +1,10 @@
+D:\proj2\core\ntier\bin\Release\NTier_Web.dll
+D:\proj2\core\ntier\bin\Release\NTier_Web.pdb
+D:\proj2\core\ntier\bin\Release\DAL.dll
+D:\proj2\core\ntier\bin\Release\NPOI.dll
+D:\proj2\core\ntier\bin\Release\DAL.pdb
+D:\proj2\core\ntier\obj\Release\NTier_Web.csprojResolveAssemblyReference.cache
+D:\proj2\core\ntier\obj\Release\NTier.Form1.resources
+D:\proj2\core\ntier\obj\Release\NTier_Web.csproj.GenerateResource.Cache
+D:\proj2\core\ntier\obj\Release\NTier_Web.dll
+D:\proj2\core\ntier\obj\Release\NTier_Web.pdb
